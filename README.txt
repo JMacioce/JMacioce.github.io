@@ -1,7 +1,7 @@
 Personal Portfolio Page
-Reverse Engineered a HTML5 UP template
+While Learning HTML, CSS, and JavaScript on my own - I Reverse Engineered a HTML5 UP template for my first web development project
 
-Website is still currently under development.
+Website is still being updated daily.
 
 Page is visible at: https://jmacioce.github.io/
 
