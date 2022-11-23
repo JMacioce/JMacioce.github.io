@@ -10,7 +10,6 @@ Credits:
 
 	Images:
 		Pokémon®
-		My Hero Academia®
 
 	Icons:
 		Font Awesome (fontawesome.io)
