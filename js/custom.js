@@ -1,7 +1,6 @@
 /*!
- * Item: CodeX
- * Description:  Personal Portfolio / Resume / CV / vCard Template
- * Author/Developer: Exill
+ * Description:  Personal Portfolio
+ * Author/Developer: Julian Macioce
  * Author/Developer URL: https://themeforest.net/user/exill
  * Version: v1.0.0
  * License: Themeforest Standard Licenses: https://themeforest.net/licenses
