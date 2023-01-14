@@ -72,6 +72,21 @@ a {
   transition: all 0.15s ease-in-out;
 }
 
+.abo {
+  color: #0039b5;
+  font-weight: bold
+}
+
+.edu {
+  color: #540e7c;
+  font-weight: bold
+}
+
+.cre {
+  color: #410101;
+  font-weight: bold
+}
+
 a:hover,
 a:focus {
   text-decoration: none;
